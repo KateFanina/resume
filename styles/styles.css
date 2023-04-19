@@ -188,12 +188,12 @@ body {
     background-color: #1E2939;
     border-radius: 5px;
     padding-top: 40px;
-    width: 370px;
+    width: 470px;
 }
 
 .photo {
     height: min-content;
-    width: 370px;
+    width: 470px;
     margin-bottom: 50px;
 }
 
