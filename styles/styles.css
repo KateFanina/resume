@@ -192,8 +192,8 @@ body {
 }
 
 .photo {
-    height: min-content;
-    width: 470px;
+    height: 350px;
+    width: 100%;
     margin-bottom: 50px;
 }
 
