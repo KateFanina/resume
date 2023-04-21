@@ -14,7 +14,7 @@ body {
 
 .main-content {
     background-color: #FFFFFF;
-    background-color: ghostwhite;
+    background-color: floralwhite;
     border-radius: 5px;
     /* box-shadow: 6px 6px 20px rgba(0, 0, 0.1); */
     padding: 80px 90px
@@ -196,7 +196,7 @@ body {
 }
 
 .photo {
-    height: 300px;
+    height: 330px;
     width: 100%;
     margin-bottom: 50px;
 }
