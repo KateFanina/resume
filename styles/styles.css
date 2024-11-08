@@ -121,7 +121,7 @@ body {
 }
 
 .project-technology {
-    color: darkblue;
+    color: #00008b;
 }
 
 /* work styles */
@@ -204,7 +204,7 @@ body {
 /* sidebar styles */
 
 .sidebar {
-    background-color: #1E2939;
+    background-color: #67cfd5;
     border-radius: 5px;
     width: 370px;
 }
@@ -270,7 +270,8 @@ body {
 
 .tech-skills-item,
 .soft-skills-item {
-    color: #FB6D3A;
+    /* color: #334467; */
+    color: #00008b;
 }
 
 .tech-skills-text,
